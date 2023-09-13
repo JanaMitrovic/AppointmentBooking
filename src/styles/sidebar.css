@@ -1,0 +1,21 @@
+.navbar-custom{
+    background-color: #060930;
+}
+.navbar-custom .navbar-brand {
+    color: white;
+}
+.item{
+    display: flex;
+    align-items: center;
+    place-content: flex-start;
+    padding: 10px;
+    font-size: 20px;
+    font-weight: 500;
+    color: #595B83;
+}
+
+.icon{
+    margin-right: 10px;
+    font-size: 30px;
+    color: #060930;
+}
